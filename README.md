@@ -87,24 +87,6 @@ Then open the URL shown in the console (for example `https://localhost:5001`).
 
 Use Stripe's test card: `4242 4242 4242 4242`, any future expiry date and any CVC.
 
-## 🔐 Default admin account <!-- verify: only keep if you seed an admin -->
-
-| Email | Password |
-|---|---|
-| admin@example.com | `<your seeded password>` |
-
-## 📸 Screenshots
-
-<!-- Add 3-5 screenshots: home page, product details, cart, checkout, admin dashboard -->
-![Home](docs/screenshots/home.png)
-
-## 🗺️ Roadmap
-
-- [ ] Product search, filtering and pagination
-- [ ] Order confirmation emails
-- [ ] Unit and integration tests
-- [ ] Docker support
-
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
